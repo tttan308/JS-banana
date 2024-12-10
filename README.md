@@ -17,11 +17,11 @@
   />
   <img
   width="507"
-  src="https://github-readme-stats.vercel.app/api?username=JS-banana&show_icons=true&&theme=radical&layout=compact"
+  src="https://github-readme-stats.vercel.app/api?username=tttan308&show_icons=true&&theme=radical&layout=compact"
   />
 </p>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tttan308&repo=github-readme-stats)](https://github.com/tttan308/github-readme-stats) -->
 
 <!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tttan308&hide=handlebars&langs_count=8&layout=compact&exclude_repo=vuepress,vuepress-blog-io,vuepress-theme-vdoing,hexo,hexo-theme-next,images) -->
 
